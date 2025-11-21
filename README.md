@@ -1,5 +1,6 @@
 # Task-Tracker
 A CLI app to track your tasks and manage your to-do list.
+Project idea was obtained from: https://roadmap.sh/projects/task-tracker
 ## Features:
 You can add new tasks with a description, update existing task descriptions, delete tasks by ID, mark tasks as ‘todo’, ‘in-progress’, or ‘done’, list all tasks, or filter by specific status.
 ## How to Run:
